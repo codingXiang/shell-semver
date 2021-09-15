@@ -25,6 +25,9 @@ $ ./increment_version.sh -r 1.1.2
 $ ./increment_version.sh -r 1.1.2-rc.0
 1.1.2-rc.1
 
+$ ./increment_version.sh -R 1.1.2-rc.0
+1.1.2
+
 $ ./increment_version.sh -d 1.1.2
 1.1.2-dev
 ```
